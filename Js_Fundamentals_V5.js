@@ -6,7 +6,7 @@
 
 function myFunction(a){
 
-    return a.substring(4)
+    return a.substring(3)
 
 }
 
